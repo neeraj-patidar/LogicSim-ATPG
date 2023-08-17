@@ -1,0 +1,9 @@
+0 PI
+1 PI
+2 PI
+3 PI
+4 AND 0 1
+5 NOT 0
+6 NOT 4
+7 OR 2 3
+8 XOR 5 6 7
